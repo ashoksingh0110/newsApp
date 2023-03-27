@@ -1,0 +1,26 @@
+.nav{
+    background-color: rgb(97, 165, 42);
+}
+.logo-name{
+    color:rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.footer{
+    background-color: rgb(97, 165, 42);
+}
+
+.bg{
+    background-color: rgb(221, 120, 25);
+}
+.mybtn{
+    text-align: center;
+    margin-left: 40%;
+}
+.mybtn:hover{
+    background-color: rgb(230, 255, 4);
+}
+#search{
+    color: black;
+}
